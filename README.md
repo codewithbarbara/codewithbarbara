@@ -9,7 +9,6 @@ Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Con
 [![Instagram](https://img.shields.io/badge/%20Me%20siga%20no%20Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithbarbara)
 [![Stars](https://img.shields.io/badge/%20Estrelas-66cdaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithbarbara?tab=repositories)
 [![Followers](https://img.shields.io/badge/%20Seguidores-4682b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithbarbara)
-
 </div>
 
 ---
