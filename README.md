@@ -50,15 +50,4 @@ Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Con
 
 ---
 
-### 📊 Estatísticas
-
-<a href="https://github.com/codewithbarbara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithbarbara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=66cdaa&icon_color=d7f2e6"/>
-</a>
-<a href="https://github.com/codewithbarbara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbarbara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=66cdaa&text_color=d7f2e6"/>
-</a>
-
-</div>
-
 
