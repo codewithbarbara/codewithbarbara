@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bárbara Fonseca
 
-**`Graduanda em Engenharia de Software pela instituição de ensino PUC MINAS`**
+**`Graduanda em Engenharia de Software pela PUC MINAS`**
 
 Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio técnico em eletroeletrônica. Atualmente, estou cursando Engenharia de Software na PUCMINAS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[0xbabi](https://www.instagram.com/0xbabi/)".
 
