@@ -2,7 +2,7 @@
 
 **`Graduanda em Ciência da Computação pelo IFMG`**
 
-Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio técnico em eletroeletrônica. Atualmente, estou cursando Ciência da Computação no Instituto Federal de Ciência e Tecnologia de Minas Gerais (IFMG), porém iniciei e concluí 2 semetres de Engenharia de Software na PUCMINAS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado [0xbabi](https://www.instagram.com/0xbabi/). Ademais,  possuo uma microempresa chamada [CodeWithBarbara](https://www.instagram.com/codewithbarbara/) na qual crio soluções em forma de softwares para diversos tipos de empresas e pessoas!
+Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio técnico em eletroeletrônica. Atualmente, estou cursando Ciência da Computação no Instituto Federal de Ciência e Tecnologia de Minas Gerais (IFMG), porém iniciei e concluí 2 semetres de Engenharia de Software na PUCMINAS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado [0xbabi](https://www.instagram.com/0xbabi/). Ademais,  para medir meus conhecimentos e ter uma renda extra, tenho um projeto próprio chamado [CodeWithBarbara](https://www.instagram.com/codewithbarbara/) na qual crio soluções em forma de softwares e sites! :)
 
 <div align="flex">
 
