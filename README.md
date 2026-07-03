@@ -2,11 +2,11 @@
 
 **`Graduanda em Ciência da Computação pelo IFMG`**
 
-Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio técnico em eletroeletrônica. Atualmente, estou cursando Ciência da Computação no Instituto Federal de Ciência e Tecnologia de Minas Gerais (IFMG), porém iniciei e concluí 2 semetres de Engenharia de Software na PUCMINAS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado [code.b4bi](https://www.instagram.com/code.b4bi/). Ademais,  para medir meus conhecimentos e ter uma renda extra, tenho um projeto próprio chamado [co.moviment](https://www.instagram.com/co.moviment/) na qual crio soluções em forma de softwares e sites! :)
+Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio técnico em eletroeletrônica. E hodirnamente, estou cursando Ciência da Computação no Instituto Federal de Ciência e Tecnologia de Minas Gerais (IFMG), porém iniciei e concluí 2 semetres de Engenharia de Software na PUCMINAS. Sou apaixonada por tecnologia desde criança, sempre fui o Help Desk da família. Ademais,  para medir meus conhecimentos e ter uma renda extra, tenho um projeto próprio chamado [co.moviment](https://www.instagram.com/co.moviment/) na qual crio soluções em forma de softwares e sites! :)
 
 <div align="flex">
 
-[![Instagram](https://img.shields.io/badge/%20Me%20siga%20no%20Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithbarbara)
+[![Instagram](https://img.shields.io/badge/%20Me%20siga%20no%20Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/co.moviment)
 [![Stars](https://img.shields.io/badge/%20Repo's-66cdaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithbarbara?tab=repositories)
 
 </div>
