@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bárbara Fonseca
+# Bárbara Fonseca
 
 **`Graduanda em Ciência da Computação pelo IFMG`**
 
@@ -13,7 +13,7 @@ Me chamo Bárbara Mota Fonseca, tenho 19 anos e sou natural de Minas Gerais. Con
 
 ---
 
-### 🖥️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div align="center">
 <!-- FRONT-END -->
